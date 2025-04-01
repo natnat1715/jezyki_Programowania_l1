@@ -1,9 +1,9 @@
 package lab1jezykiprogramowania
 /**
-* @author Natalia Kurczyna
+ * @author Natalia Kurczyna
  * wiedza o multizbiorze została zaczerpnięta z zajęć laboratorynych
  * do poprawienia kodu użyto chatGPT, który poprawił tworzenie mutowalnej listy i zaproponował usuwanie elementów z listy i przerwanie pętli, gdy znajdzie odpowiadającą wartość w kopii drugiej tablicy
- *@param funkcja przyjmuje x (lista Int), y (lista Int)
+ * @param funkcja przyjmuje x (lista Int), y (lista Int)
  * @return mutowalną listę Int zawierającą część wspólną listy x i listy y
  * funkcja pętlą porównuje wartość elementu i z listy x z wartościami j z kopią listy y i jeśli znajdzie wspólną wartość to dodaje ją do czescWspolna i usuwa
  * ten element z kopii listy y aby nie był on porównywany przy następnym przebiegu pętli
